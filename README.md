@@ -1,9 +1,9 @@
 ### Programmer
 
-####Skills: GDScript (Experienced). C++ (Prior experience). Godot 3/4. Git.
-####Interests: Back and front end system development. Gameplay programming.
+#### Skills: GDScript (Experienced). C++ (Prior experience). Godot 3/4. Git.
+#### Interests: Back and front end system development. Gameplay programming.
 
-####Experience
+#### Experience
 
 (2022 - now) Systems and gameplay programmer
 
@@ -20,7 +20,7 @@ Various clients
 - Developed gameplay systems for 2D platformers, isometric 3D games, first person shooters...
 - Experience developing UI based on designer documents.
 
-####Projects
+#### Projects
 
 First person shooter project
 - Developed solo in Godot 3.
@@ -32,6 +32,6 @@ Survival horror project
 - Aim to deepen knowledge in unreal's C++ and blueprint systems.
 - Goal to create a solit survival horror character controler.
 
-####Contact
+#### Contact
 Discord - alguma
 Itch - https://alguma.itch.io/
