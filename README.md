@@ -33,5 +33,5 @@ Survival horror project
 - Goal to create a solit survival horror character controler.
 
 #### Contact
-Discord - alguma
+Discord - alguma  
 Itch - https://alguma.itch.io/
