@@ -13,6 +13,7 @@ Tokisan LLC
 - Developed a modular game save and load system.
 - Reworked the option systems into a single class that manages all the game's config.
 - Created map and minimap dynamic checkpoint system.
+- [Steam page](https://store.steampowered.com/app/2296950/Out_of_the_Ashes/)
 
 (2021 - 2022) Freelance gameplay programmer
 
