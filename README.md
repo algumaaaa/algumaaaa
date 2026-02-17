@@ -23,20 +23,23 @@ Various clients
 
 #### Projects
 
-[Taxi driver project](https://github.com/algumaaaa/taxista)
+Taxi driver project
 - Developed with an artist in Godot 4. Ongoing.
 - Pedestrian and vehicle NPCs with AI pathfinding.
 - Gameplay, menus, dialogue, modeling, mapping...
+- [Repository](https://github.com/algumaaaa/taxista)
 
-[Survival horror project](https://github.com/algumaaaa/fp-horror)
+Survival horror project
 - Developed solo in Unreal 5. Ongoing.
 - Aim to deepen knowledge in unreal's C++ and blueprint systems.
 - Goal to create a solid survival horror character controler.
+- [Repository](https://github.com/algumaaaa/fp-horror)
 
-[First person shooter project](https://github.com/algumaaaa/gfa-project)
+First person shooter project
 - Developed solo in Godot 3.
 - Front and back-end systems, gameplay, AI, OST...
 - Available to play in itch.io page.
+- [Repository](https://github.com/algumaaaa/gfa-project)
 
 #### Contact
 Discord - alguma  
