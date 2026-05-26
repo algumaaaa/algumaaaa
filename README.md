@@ -28,7 +28,7 @@ Taxi driver project
 - Developed with an artist in Godot 4. Ongoing.
 - Pedestrian and vehicle NPCs with AI pathfinding.
 - Gameplay, menus, dialogue, modeling, mapping...
-- [Repository](https://github.com/algumaaaa/taxista)
+- [Itch Page](https://alguma.itch.io/taxista-tales-of-night)
 
 Survival horror project
 - Developed solo in Unreal 5. Ongoing.
@@ -40,6 +40,7 @@ First person shooter project
 - Developed solo in Godot 3.
 - Front and back-end systems, gameplay, AI, OST...
 - Available to play in itch.io page.
+- [Itch Page](https://alguma.itch.io/gorefast)
 - [Repository](https://github.com/algumaaaa/gfa-project)
 
 #### Contact
